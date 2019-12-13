@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: application
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Rudrananda
+Implementation-Vendor-Id: com.airlines
+Build-Jdk: 1.8.0_131
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/application
+Created-By: Maven Integration for Eclipse
+
